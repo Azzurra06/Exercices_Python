@@ -1,3 +1,6 @@
+#Ce code permet de compter le nombre de fois qu'une lettre apparait dans le mot
+
+#on définit la fonction
 def fonction(t, l) :
     i=0
     cpt=0
