@@ -1,0 +1,5 @@
+v1 = input("Donner l'entier à diviser : ")
+print("type de v1", type(v1))
+v1 = int(v1)
+v2 = int(input("Donner le diviseur : "))
+print ("Division euclidienne de", v1 ,"par", v2, ":", (v1 //v2),"*",v2,"+",(v1%v2))
